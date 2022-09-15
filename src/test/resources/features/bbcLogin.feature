@@ -8,3 +8,10 @@
       Then user should see home page
       And user clicks on news button
 
+    #Then user enters with "advancedscientificw@gmail.com" email and "kerim4473" password
+
+  @wheather
+
+
+
+
