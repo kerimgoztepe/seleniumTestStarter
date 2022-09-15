@@ -1,8 +1,6 @@
 package steps;
 
-import io.cucumber.java8.En;
-import pages.Page;
-
+/*
 public class StepDefs extends Page implements En {
 
     public StepDefs() {
@@ -11,3 +9,5 @@ public class StepDefs extends Page implements En {
     }
 
 }
+
+ */
